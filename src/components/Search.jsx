@@ -109,8 +109,9 @@ function Search() {
             <b>Name or Direct URL</b>
           </span>
           <span className="text-sm mt-3 text-[#4D586A]">
-            Duis feugiat congue metus, ultrices vulputate <br /> nibh viverra
-            eget. Vestibulum ullamcorper <br /> volutpat varius.
+            The place to explore, filter, research, and
+            <br /> browse the AllMusic database.
+            <br /> Search albums by anything.
           </span>
         </div>
         {/* Music Player */}
