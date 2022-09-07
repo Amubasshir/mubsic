@@ -52,7 +52,7 @@ function Hero() {
         <div className="headings flex flex-col items-start justify-center h-[100%] text-[3rem]">
           <span>Experience The</span>{' '}
           <span>
-            <b>Best Qulaity Music</b>
+            <b>Best Quality Music</b>
           </span>
           <span className="text-[15px] text-white mt-2">
             A handful of streaming music services offer Hi-Res Audio, or HRA,
