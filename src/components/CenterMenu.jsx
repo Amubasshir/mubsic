@@ -7,8 +7,8 @@ const CenterMenu = () => {
       <ul className="flex w-[100%] justify-between">
         <li className={liStyle}>Home</li>
         <li className={liStyle}>About</li>
-        <li className={liStyle}>Preformer</li>
-        <li className={liStyle}>Event Shedule</li>
+        <li className={liStyle}>Play</li>
+        <li className={liStyle}>Contact</li>
       </ul>
     </div>
   );
